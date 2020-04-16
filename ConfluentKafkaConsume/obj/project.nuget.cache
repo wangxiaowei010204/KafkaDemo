@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gmMR2lr6kj2M3FrIfAGGe8WYHuFYA4c3VGwwkZxmyh8Izbm2Mv6qDslHkgV8432XhhxmDN2HcdDC2KsX1YBHOQ==",
+  "success": true,
+  "projectFilePath": "D:\\wangxw\\source\\demo\\KafkaDemo\\ConfluentKafkaConsume\\ConfluentKafkaConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yalla215\\.nuget\\packages\\confluent.kafka\\1.2.1\\confluent.kafka.1.2.1.nupkg.sha512",
+    "C:\\Users\\yalla215\\.nuget\\packages\\librdkafka.redist\\1.2.1\\librdkafka.redist.1.2.1.nupkg.sha512",
+    "C:\\Users\\yalla215\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
